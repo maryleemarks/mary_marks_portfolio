@@ -18,7 +18,7 @@
 .important {
   font-weight:bolder;
   color:rgb(6, 59, 6);
-  text-align: left;
+  text-align: center;
   text-decoration:rgb(6, 59, 6) underline
 }
 
@@ -29,9 +29,9 @@
 
 .float_box {
   float: right;
-  width: 40%;
-  border: 5px rgb(42, 102, 60)
-  margin: 15px
+  justify-content: space-around;
+  background-color: rgb(215, 235, 204);
+  
 }
 
 
