@@ -26,3 +26,12 @@
   font-weight:bold;
   color:rgb(16, 97, 23);
 }
+
+.float_box {
+  float: right;
+  width: 40%;
+  border: 5px rgb(42, 102, 60)
+  margin: 15px
+}
+
+
