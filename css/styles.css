@@ -6,3 +6,12 @@
   height: auto;
   display: block;
 }
+
+.very_important {
+  font-weight: bolder;
+  color:rgb(6, 59, 6);
+  background-color: tan;
+  text-align:center;
+  border: 3px solid rgb(42, 102, 60)
+}
+
