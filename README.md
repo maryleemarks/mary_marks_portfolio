@@ -19,6 +19,7 @@ This webpage allows people to learn more about Mary's coding skills and more.
 * Clone this repository to your desktop
 * Navigate to your devices desktop files and click the webpage link
 * View the webpage on your browser
+* Alternatively, you can view the live webpage via this [Github link](https://maryleemarks.github.io/mary_marks_portfolio/)
 
 
 ## Known Bugs
